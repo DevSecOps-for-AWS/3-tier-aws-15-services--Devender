@@ -3,7 +3,7 @@ forked from ([aws-samples/aws-three-tier-web-architecture-workshop](https://gith
 
 # AWS Three Tier Web Architecture Workshop
 ## Architecture Overview
-## ![Three Tier Web Application Architecture](<img width="1662" height="946" alt="3tierworkshop-15 Services" src="https://github.com/user-attachments/assets/7b431017-37dd-4a47-9b5e-1506768420df" />)
+## (<img width="1662" height="946" alt="3tierworkshop-15 Services" src="https://github.com/user-attachments/assets/7b431017-37dd-4a47-9b5e-1506768420df" /> )
 
 ---
 ```
