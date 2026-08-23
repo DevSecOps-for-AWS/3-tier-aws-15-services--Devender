@@ -82,7 +82,8 @@ forked from ([aws-samples/aws-three-tier-web-architecture-workshop](https://gith
 ---
 
 ## Setup the Ec2-instance and create the IAM (WEB Tier)
-**REF:** [web-tier](https://github.com/DevSecOps-for-AWS/3-tier-aws-15-services/edit/main/application-code/web-tier)
+**REF:** [web-tier](https://github.com/DevSecOps-for-AWS/3-tier-aws-15-services--Devender/edit/main/application-code/web-tier)
+
 
 **Only Setup the Packages:**  
 - Nginx  
@@ -91,7 +92,8 @@ forked from ([aws-samples/aws-three-tier-web-architecture-workshop](https://gith
 ---
 
 ## Setup the Ec2-instance and create the IAM (APP Tier)
-**REF:** [app-tier](https://github.com/DevSecOps-for-AWS/3-tier-aws-15-services/tree/main/application-code/app-tier)
+**REF:** [app-tier](https://github.com/DevSecOps-for-AWS/3-tier-aws-15-services--Devender/tree/main/application-code/app-tier)
+
 
 **Only Setup the Packages:**  
 - install  
